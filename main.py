@@ -11,131 +11,131 @@ def alarm(zvn, zvn2, zvn3, zvn4, zvn5, zvn6, zvn7, zvn8, zvn1, zvn12, zvn13, zvn
         print(now)
 
         if now == zvn:
-            print("ЗВОНОК с 1")
+            print("ЗВОНОК на 1")
             winsound.PlaySound("1.wav", winsound.SND_ASYNC)
             time.sleep(180)
         if now == zvn2:
-            print("ЗВОНОК с 2")
+            print("ЗВОНОК на 2")
             winsound.PlaySound("2.wav", winsound.SND_ASYNC)
             time.sleep(180)
         if now == zvn3:
-            print("ЗВОНОК с 3")
+            print("ЗВОНОК на 3")
             winsound.PlaySound("3.wav", winsound.SND_ASYNC)
             time.sleep(180)
         if now == zvn4:
-            print("ЗВОНОК с 4")
+            print("ЗВОНОК на 4")
             winsound.PlaySound("4.wav", winsound.SND_ASYNC)
             time.sleep(180)
         if now == zvn5:
-            print("ЗВОНОК с 5")
+            print("ЗВОНОК на 5")
             winsound.PlaySound("5.wav", winsound.SND_ASYNC)
             time.sleep(180)
         if now == zvn6:
-            print("ЗВОНОК с 6")
+            print("ЗВОНОК на 6")
             winsound.PlaySound("6.wav", winsound.SND_ASYNC)
             time.sleep(180)
         if now == zvn7:
-            print("ЗВОНОК с 7")
+            print("ЗВОНОК на 7")
             winsound.PlaySound("7.wav", winsound.SND_ASYNC)
             time.sleep(180)
         if now == zvn8:
-            print("ЗВОНОК с 8")
+            print("ЗВОНОК на 8")
             winsound.PlaySound("8.wav", winsound.SND_ASYNC)
             time.sleep(180)
         if now == zvn1:
-            print("ЗВОНОК на 1")
+            print("ЗВОНОК с 1")
             winsound.PlaySound("9.wav", winsound.SND_ASYNC)
             time.sleep(180)
         if now == zvn12:
-            print("ЗВОНОК на 2")
+            print("ЗВОНОК с 2")
             winsound.PlaySound("10.wav", winsound.SND_ASYNC)
             time.sleep(180)
         if now == zvn13:
-            print("ЗВОНОК на 3")
+            print("ЗВОНОК с 3")
             winsound.PlaySound("11.wav", winsound.SND_ASYNC)
             time.sleep(180)
         if now == zvn14:
-            print("ЗВОНОК на 4")
+            print("ЗВОНОК с 4")
             winsound.PlaySound("12.wav", winsound.SND_ASYNC)
             time.sleep(180)
         if now == zvn15:
-            print("ЗВОНОК на 5")
+            print("ЗВОНОК с 5")
             winsound.PlaySound("13.wav", winsound.SND_ASYNC)
             time.sleep(180)
         if now == zvn16:
-            print("ЗВОНОК на 6")
+            print("ЗВОНОК с 6")
             winsound.PlaySound("14.wav", winsound.SND_ASYNC)
             time.sleep(180)
         if now == zvn17:
-            print("ЗВОНОК на 7")
+            print("ЗВОНОК с 7")
             winsound.PlaySound("15.wav", winsound.SND_ASYNC)
             time.sleep(180)
         if now == zvn18:
-            print("ЗВОНОК на 8")
+            print("ЗВОНОК с 8")
             winsound.PlaySound("16.wav", winsound.SND_ASYNC)
             time.sleep(180)
         if now == zvn21:
-            print("ЗВОНОК на 1")
+            print("ЗВОНОК на 0")
             winsound.PlaySound("17.wav", winsound.SND_ASYNC)
             time.sleep(180)
         if now == zvn22:
-            print("ЗВОНОК на2")
+            print("ЗВОНОК на 1")
             winsound.PlaySound("18.wav", winsound.SND_ASYNC)
             time.sleep(180)
         if now == zvn23:
-           print("ЗВОНОК на3")
+           print("ЗВОНОК на 2")
            winsound.PlaySound("19.wav", winsound.SND_ASYNC)
            time.sleep(180)
         if now == zvn24:
-            print("ЗВОНОК на4")
+            print("ЗВОНОК на 3")
             winsound.PlaySound("20.wav", winsound.SND_ASYNC)
             time.sleep(180)
         if now == zvn25:
-            print("ЗВОНОК на5")
+            print("ЗВОНОК на 4")
             winsound.PlaySound("21.wav", winsound.SND_ASYNC)
             time.sleep(180)
         if now == zvn26:
-            print("ЗВОНОК на6")
+            print("ЗВОНОК на 5")
             winsound.PlaySound("22.wav", winsound.SND_ASYNC)
             time.sleep(180)
         if now == zvn27:
-            print("ЗВОНОК на7")
+            print("ЗВОНОК на 6")
             winsound.PlaySound("23.wav", winsound.SND_ASYNC)
             time.sleep(180)
         if now == zvn28:
-            print("ЗВОНОК на8")
+            print("ЗВОНОК на 7")
             winsound.PlaySound("24.wav", winsound.SND_ASYNC)
             time.sleep(180)
         if now == zvn31:
-            print("ЗВОНОК c 1")
+            print("ЗВОНОК c 0")
             winsound.PlaySound("25.wav", winsound.SND_ASYNC)
             time.sleep(180)
         if now == zvn32:
-            print("ЗВОНОК cо 2")
+            print("ЗВОНОК c 1")
             winsound.PlaySound("26.wav", winsound.SND_ASYNC)
             time.sleep(180)
         if now == zvn33:
-           print("ЗВОНОК с 3")
+           print("ЗВОНОК со 2")
            winsound.PlaySound("27.wav", winsound.SND_ASYNC)
            time.sleep(180)
         if now == zvn34:
-            print("ЗВОНОК с 4")
+            print("ЗВОНОК с 3")
             winsound.PlaySound("28.wav", winsound.SND_ASYNC)
             time.sleep(180)
         if now == zvn35:
-            print("ЗВОНОК с 5")
+            print("ЗВОНОК с 4")
             winsound.PlaySound("29.wav", winsound.SND_ASYNC)
             time.sleep(180)
         if now == zvn36:
-            print("ЗВОНОК с 6")
+            print("ЗВОНОК с 5")
             winsound.PlaySound("30.wav", winsound.SND_ASYNC)
             time.sleep(180)
         if now == zvn37:
-            print("ЗВОНОК с 7")
+            print("ЗВОНОК с 6")
             winsound.PlaySound("31.wav", winsound.SND_ASYNC)
             time.sleep(180)
         if now == zvn38:
-            print("ЗВОНОК с 8")
+            print("ЗВОНОК с 7")
             winsound.PlaySound("32.wav", winsound.SND_ASYNC)
             time.sleep(180)
 
@@ -177,10 +177,10 @@ def actual_time():
 
 
 clock = Tk()     # замена
-clock.title("ZVONOK BY DIMA 10Б")             # тайтл
+clock.title("ZVONOCK BY DIMA 10Б")             # тайтл
 
 clock.geometry("590x300")
-nowy= time.strftime
+nowy = time.strftime
 TXTwithTIME = Label(clock, text = "начало урока", font=("Arial",8,"bold")).place(x = 35)
 TXTwithTIME2 = Label(clock, text = "конец урока", font=("Arial",8,"bold")).place(x = 210)
 TXTwithSMENE1 = Label(clock, text = "1 смена", font=1).place(x = 125)
@@ -196,14 +196,14 @@ TXT5LESN = Label(clock, text = "5 урок",fg="black",relief = "solid", font=("
 TXT6LESN = Label(clock, text = "6 урок",fg="black",relief = "solid", font=("Helevetica",7,"bold")).place(x=0, y=180)
 TXT7LESN = Label(clock, text = "7 урок",fg="black",relief = "solid", font=("Helevetica",7,"bold")).place(x=0, y=210)
 TXT8LESN = Label(clock, text = "8 урок",fg="black",relief = "solid", font=("Helevetica",7,"bold")).place(x=0, y=240)
-TXT11LESN = Label(clock, text = "1 урок",fg="black",relief = "solid", font=("Helevetica",7,"bold")).place(x=550, y=30)
-TXT12LESN = Label(clock, text = "2 урок",fg="black",relief = "solid", font=("Helevetica",7,"bold")).place(x=550, y=60)
-TXT13LESN = Label(clock, text = "3 урок",fg="black",relief = "solid", font=("Helevetica",7,"bold")).place(x=550, y=90)
-TXT14LESN = Label(clock, text = "4 урок",fg="black",relief = "solid", font=("Helevetica",7,"bold")).place(x=550, y=120)
-TXT15LESN = Label(clock, text = "5 урок",fg="black",relief = "solid", font=("Helevetica",7,"bold")).place(x=550, y=150)
-TXT16LESN = Label(clock, text = "6 урок",fg="black",relief = "solid", font=("Helevetica",7,"bold")).place(x=550, y=180)
-TXT17LESN = Label(clock, text = "7 урок",fg="black",relief = "solid", font=("Helevetica",7,"bold")).place(x=550, y=210)
-TXT18LESN = Label(clock, text = "8 урок",fg="black",relief = "solid", font=("Helevetica",7,"bold")).place(x=550, y=240)
+TXT11LESN = Label(clock, text = "0 урок",fg="black",relief = "solid", font=("Helevetica",7,"bold")).place(x=550, y=30)
+TXT12LESN = Label(clock, text = "1 урок",fg="black",relief = "solid", font=("Helevetica",7,"bold")).place(x=550, y=60)
+TXT13LESN = Label(clock, text = "2 урок",fg="black",relief = "solid", font=("Helevetica",7,"bold")).place(x=550, y=90)
+TXT14LESN = Label(clock, text = "3 урок",fg="black",relief = "solid", font=("Helevetica",7,"bold")).place(x=550, y=120)
+TXT15LESN = Label(clock, text = "4 урок",fg="black",relief = "solid", font=("Helevetica",7,"bold")).place(x=550, y=150)
+TXT16LESN = Label(clock, text = "5 урок",fg="black",relief = "solid", font=("Helevetica",7,"bold")).place(x=550, y=180)
+TXT17LESN = Label(clock, text = "6 урок",fg="black",relief = "solid", font=("Helevetica",7,"bold")).place(x=550, y=210)
+TXT18LESN = Label(clock, text = "7 урок",fg="black",relief = "solid", font=("Helevetica",7,"bold")).place(x=550, y=240)
 
 hour1 = StringVar()
 min1 = StringVar()
